@@ -1,0 +1,8 @@
+Dificuldades:
+
+- Aprender comandos básicos no terminal do Linux, tô utilizando a distro Mint 18.3;
+- Não conhecia IDE ou editor de texto pra rodar os códigos em C, procurei alguns comandos do próprio gcc (Windows deixa a gente muito mal acostumado);
+- Tentei instalar o docker 2 vezes e não consegui, achei um script num Git e consegui \o/;
+- Não conseguia subir meu próprio Dockerfile por causa do "." (ponto) no final do comando: "sudo docker build -t TAG ." 
+
+Todos essas "dificuldades" é pelo fato de eu ser um noob no Linux.
